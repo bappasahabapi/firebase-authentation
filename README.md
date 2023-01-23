@@ -1,5 +1,5 @@
 ### Getting Started Firebase Authentation:
-![Output is](/image/ba.png)
+![Output is](/src/image/ba.png)
 
 `🕊️ Visit Branches for :`
 
