@@ -30,7 +30,7 @@
     2. Create github, twitter, fb, etc. app create
     3. get clientId and secret 
 -------
-🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 Full Process is here:
+🔥🔥🔥🔥🔥🔥🔥 Full Process is here:
 -------
 
 
