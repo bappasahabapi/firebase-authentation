@@ -37,7 +37,8 @@ function App() {
  
   return (
     <div className="App">
-     <button style={{fontSize:'30px',height:'100px', width:'300px',marginTop:'500px'}} onClick={handleGoogleSingIn}>🟢Google Sign In </button>
+    
+     <button style={{fontSize:'30px',height:'100px', width:'300px',marginTop:'500px'}} onClick={handleGoogleSingIn}>🟢Google Sign In </button> <br></br>
      <button onClick={handleSignOut} style={{marginTop:'50px',width:'200px', padding:'10px',fontSize:'20px'}} >Sign Out ❌</button>
      <div>
       
@@ -46,7 +47,8 @@ function App() {
      <p>uid 👉 <b>{user.uid}</b></p>
      
      <img style={{height:'100px'}} src={user?.photoURL} alt="image"/>
-     
+     <h3>Simple Google sign in and sign out </h3>
+     <span>@copyrirht bappa saha😉</span>
      </div>
     </div>
   );
