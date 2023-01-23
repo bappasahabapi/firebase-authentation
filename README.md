@@ -1,6 +1,9 @@
 # Getting Started Firebase Authentation:
 
+Goggle Authentication 👉   [1.1-google-authentication](https://github.com/bappasahabapi/firebase-authentation/tree/1.1-google-authentation).
+
 1. visit  [console.firebase.com](https://console.firebase.google.com/u/0/).
+ 
 2. Create a new project example: 
 
          simple-firebase-authentaion
@@ -17,7 +20,7 @@
     3. Visit doc ( go to docs): Build > Authentication > web > Getting started
     4. Register web app > firebase project home > click Web > give name and register
     5. Install firebase for your project: npm install firebase
-    6. DANGEROUS: get firebase config and put it in firebase.init.js
+    6. Get firebase config and put it in firebase.init.js
     7. export app from firebase.init.js 
 
 🇧🇩 SETUP THE PROVIDER
