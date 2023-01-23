@@ -1,7 +1,11 @@
 ### Getting Started Firebase Authentation:
+![Output is](/image/ba.png)
 
 `🕊️ Visit Branches for :`
+
 Goggle Authentication 👉   [1.1-google-authentication](https://github.com/bappasahabapi/firebase-authentation/tree/1.1-google-authentation).
+
+Goggle Sign in Sign out 👉   [1.2-google-authentication](https://github.com/bappasahabapi/firebase-authentation/tree/1.2-google-sign-in-with-data).
 
 1. visit  [console.firebase.com](https://console.firebase.google.com/u/0/).
  
